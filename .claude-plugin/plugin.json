@@ -1,0 +1,17 @@
+{
+  "name": "ambition",
+  "version": "1.0.0",
+  "description": "Audits a supplied goal for meaningful stretch, evidence, constraints, and human-owned commitment. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/ambition",
+  "repository": "https://github.com/andrewluxem/ambition",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "ambition-audit",
+    "goal-design"
+  ]
+}

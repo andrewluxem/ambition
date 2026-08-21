@@ -1,0 +1,23 @@
+{
+  "name": "ambition",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Audits a supplied goal for meaningful stretch, evidence, constraints, and human-owned commitment. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "plugins": [
+    {
+      "name": "ambition",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Audits a supplied goal for meaningful stretch, evidence, constraints, and human-owned commitment. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "ambition-audit",
+        "goal-design"
+      ]
+    }
+  ]
+}
